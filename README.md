@@ -5,7 +5,7 @@ The repository contains the code for removing the background human image using d
 Download the dataset: [Person Segmentation](https://www.kaggle.com/datasets/nikhilroxtomar/person-segmentation/download?datasetVersionNumber=1)
 
 ## Results
-Original Image             
+Original Image & Background Removed             
 :-------------------------:
 ![](image/1.png)
 ![](image/2.png)
