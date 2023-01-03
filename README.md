@@ -1,9 +1,6 @@
 # Background-Removal-using-Deep-Learning
 The repository contains the code for removing the background human image using deep learning (semantic segmentation)
 
-## YouTube Tutorial
-YouTube Tutorial: [Background Removal using Deep Learning in TensorFlow - Semantic Segmentation](https://youtu.be/EF29Kc1-DtI)
-
 ## Dataset
 Download the dataset: [Person Segmentation](https://www.kaggle.com/datasets/nikhilroxtomar/person-segmentation/download?datasetVersionNumber=1)
 
